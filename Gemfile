@@ -46,3 +46,5 @@ group :development do
 end
 
 gem 'high_voltage', '~> 2.4.0'
+gem 'httpclient', '~> 2.6.0'
+gem 'gssapi', '~> 1.2.0'

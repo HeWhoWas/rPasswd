@@ -5,3 +5,6 @@
 #
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
+Setting.create(key: "IPA_SERVER", value: nil)
+Setting.create(key: "IPA_PRINCIPAL", value: nil)
+Setting.create(key: "IPA_KEYTAB_PATH", value: nil)

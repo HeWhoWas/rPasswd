@@ -1,0 +1,2 @@
+module FreeIpaHelper
+end
